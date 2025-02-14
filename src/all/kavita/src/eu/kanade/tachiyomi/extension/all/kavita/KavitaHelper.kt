@@ -1,10 +1,10 @@
-package eu.kanade.tachiyomi.extension.all.kavitaunofficial
+package eu.kanade.tachiyomi.extension.all.kavita
 
-import eu.kanade.tachiyomi.extension.all.kavitaunofficial.dto.ChapterDto
-import eu.kanade.tachiyomi.extension.all.kavitaunofficial.dto.ChapterType
-import eu.kanade.tachiyomi.extension.all.kavitaunofficial.dto.PaginationInfo
-import eu.kanade.tachiyomi.extension.all.kavitaunofficial.dto.SeriesDto
-import eu.kanade.tachiyomi.extension.all.kavitaunofficial.dto.VolumeDto
+import eu.kanade.tachiyomi.extension.all.kavita.dto.ChapterDto
+import eu.kanade.tachiyomi.extension.all.kavita.dto.ChapterType
+import eu.kanade.tachiyomi.extension.all.kavita.dto.PaginationInfo
+import eu.kanade.tachiyomi.extension.all.kavita.dto.SeriesDto
+import eu.kanade.tachiyomi.extension.all.kavita.dto.VolumeDto
 import eu.kanade.tachiyomi.lib.i18n.Intl
 import eu.kanade.tachiyomi.source.model.SChapter
 import eu.kanade.tachiyomi.source.model.SManga

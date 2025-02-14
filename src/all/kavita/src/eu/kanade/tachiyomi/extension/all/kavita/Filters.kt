@@ -1,6 +1,6 @@
-package eu.kanade.tachiyomi.extension.all.kavitaunofficial
+package eu.kanade.tachiyomi.extension.all.kavita
 
-import eu.kanade.tachiyomi.extension.all.kavitaunofficial.KavitaConstants.noSmartFilterSelected
+import eu.kanade.tachiyomi.extension.all.kavita.KavitaConstants.noSmartFilterSelected
 import eu.kanade.tachiyomi.source.model.Filter
 
 class UserRating :

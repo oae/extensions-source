@@ -1,8 +1,8 @@
 /**
  * Add or remove modules to load as needed for local development here.
  */
-loadAllIndividualExtensions()
-// loadIndividualExtension("all", "kavitaunofficial")
+// loadAllIndividualExtensions()
+loadIndividualExtension("all", "kavita")
 
 /**
  * ===================================== COMMON CONFIGURATION ======================================

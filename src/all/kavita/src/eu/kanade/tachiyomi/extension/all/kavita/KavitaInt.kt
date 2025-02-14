@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.all.kavitaunofficial
+package eu.kanade.tachiyomi.extension.all.kavita
 
 object KavitaInt {
     const val ENGLISH = "en"

@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.all.kavitaunofficial.dto
+package eu.kanade.tachiyomi.extension.all.kavita.dto
 
 import kotlinx.serialization.Serializable
 /**
